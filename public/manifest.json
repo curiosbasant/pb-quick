@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "PB Quick",
+  "version": "0.1.0",
+  "description": "Quick actions for PB job.",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["scripting"],
+  "host_permissions": ["https://*/*"]
+}
